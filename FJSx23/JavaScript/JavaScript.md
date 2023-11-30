@@ -1,31 +1,35 @@
 Back to [[FJSx23]]
 
 - #### Primitive datatypes
-	- string
-		- template strings
-		- concatenation
-	- number
-	- boolean
-	- symbol
-	- undefined
+	- String
+		- [[Template Strings]]
+		- Concatenation
+	- Number
+	- Boolean
+	- Symbol
+	- Undefined
 	- Null
 - #### Referenced datatypes
-	- array
+	- [[Array]]
 		- [[push, pop, shift, unshift, splice]]
-		- [[forEach (arrays iteration)]]
-	- object
-	- function
-	 ##### Unique Concepts:
-	- Proper (shallow) copying/cloning
-		
+		- [[forEach]]
+	- [[Object]]
+		- [[for...in]]
+	- [[Function]]
+		- [[Function Expression]]
+		- [[Arrow Functions]]
 - #### Loops
 	- for
-		- [[for...in (objects iteration)]]
 	- while
 	- do while
 - #### Conditionals
 	- [[if-else + Ternary Operator]]
-	- switch-case
+	- [[switch-case]]
 - #### Concepts
 	- [[JSON]]
 		- [JSON Lint](https://jsonlint.com)
+	- [[Anonymous functions]]
+	- [[Hoisting]]
+	- [DRY (Don't repeat yourself)](DRY.md)
+	- [[Strict Mode]]
+	- Proper (shallow) copying/cloning

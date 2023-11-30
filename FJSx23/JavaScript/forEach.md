@@ -1,14 +1,13 @@
 Back to [[JavaScript]]
+### The forEach method
+Is used to iterate though [arrays](Array). Syntax:
 
-### Syntax:
+```javascript
+const array = ["one", "two", "three"];
 
-```JavaScript
-const fruits = [item1, item2, item3];
-
-fruits.forEach(function(fruit) {
-	console.log(`Fruit Name: ${fruit}`)
+my_array.forEach(function(item) {
+	console.log(item);
 })
 ```
 
-### Usage:
-Method, unique to arrays. Will iterate over an array and call a function when iterating over each item.
+The item will grab each item one at a time starting at index 0 and run the function with it.

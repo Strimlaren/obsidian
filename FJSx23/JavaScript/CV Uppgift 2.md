@@ -1,6 +1,4 @@
 Back to [[FJSx23]]
-
-
 ### Krav för CV Hemsidan Uppgift 2
 
 - [x] Du får endast utveckla sidan med ren JavaScript (d.v.s Vanilla)
@@ -19,8 +17,8 @@ Back to [[FJSx23]]
 - [ ] När hämtningen av projekten sker ska det finnas information om att projekten håller på att ladda in så att besökaren inte undrar varför sidan först är tom.
 
 **Tekniska Krav**
-- [ ] Validerad med 0 fel på [](https://validator.w3.org/)[https://validator.w3.org/Links](https://validator.w3.org/Links) to an external site.
-- [ ] Inga errors i Console
-- [ ] Webbplatsen ska vara tekniskt optimerad för sökmotorer, vilket inkluderar korrekt användning av semantiska HTML5-element, metataggar som titel och beskrivning och optimerade bilder för snabba laddningstider.
+- [x] Validerad med 0 fel på [](https://validator.w3.org/)[https://validator.w3.org/Links](https://validator.w3.org/Links) to an external site.
+- [x] Inga errors i Console
+- [x] Webbplatsen ska vara tekniskt optimerad för sökmotorer, vilket inkluderar korrekt användning av semantiska HTML5-element, metataggar som titel och beskrivning och optimerade bilder för snabba laddningstider.
 - [x] I roten i ditt repository ska det finns en README.md-fil skriven i Markdown. I denna fil ska det minst framgå vem som skapat sidan (ditt namn) och länken till den publicerade versionen (t.ex på Github Pages)
 - [x] En länk till ditt repository som ska vara publikt, innehållandes **all kod** + en **[README.md](http://README.md)**

@@ -1,5 +1,4 @@
-# FJSx23 Course Contents
-
+### FJSx23 Course Contents
 - [[Schema]]
 - [[Time Investment]]
 - [Zoom Link](https://us06web.zoom.us/j/3780272155)
@@ -7,7 +6,17 @@
 - [[VS Code Hotkeys]]
 - [W3C HTML Validator](https://validator.w3.org/)
 - [[Fonts]]
-### IT Knowledge
+### Programming Technologies
+- [[HTML]]
+- [[CSS]]
+- [[JavaScript]]
+- [[Git]]
+### Inlämningsuppgifter
+- ##### Webbutveckling & Webbteknik
+	- [[CV Uppgift 1]]
+	- [[CV Uppgift 2]]
+	- [Teorihandboken](https://docs.google.com/document/d/12l5-3fn-K5E-fF8figw6Dy3jf1lCauYCz649LldxGec/edit)
+### IT Knowledgebase
 - [[OSI-Model]]
 - [[Protocols]]
 - [[HTTP Protocol]]
@@ -15,18 +24,4 @@
 - [[Cookies]]
 - [[APIs]]
 - [[Technical SEO]]
-### Webbutveckling & Webbteknik
-- [[HTML]]
-- [[CSS]]
-  - [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - ##### CSS Learning Resources:
-		- [[CSS Useful Properties]]
-		- [[CSS Exercise Bank]]
-		- [Flexbox Comprehensive Cheat Sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-		- [Grid Comprehensive Cheat Sheet](https://css-tricks.com/snippets/css/complete-guide-grid/)
-		- [Interactive HTML+CSS+JS Cheat Sheet](https://htmlcheatsheet.com/css/)
-- [[JavaScript]]
-- [[Git]]
 
-[[CV Uppgift 1]]
-[[CV Uppgift 2]]

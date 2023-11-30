@@ -4,11 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "297e382909f36389",
+        "id": "e672b8296a90be6b",
         "type": "tabs",
+        "dimension": 42.870544090056285,
         "children": [
           {
-            "id": "5765c1835b4e8849",
+            "id": "19b2099066731685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d173a211aaddf8c",
+        "type": "tabs",
+        "dimension": 57.129455909943715,
+        "children": [
+          {
+            "id": "079bcd59f2239682",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +38,15 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "e672b8296a90be6b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b55dc461ad5f390a",
+            "id": "caeaed0a5fed608f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Fullstack JavaScript 2023/FJSx23.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19b2099066731685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullstack JavaScript 2023/Git.md",
+                "file": "Fullstack JavaScript 2023/FJSx23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullstack JavaScript 2023/Git.md",
+                "file": "Fullstack JavaScript 2023/FJSx23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullstack JavaScript 2023/Git.md"
+                "file": "Fullstack JavaScript 2023/FJSx23.md"
               }
             }
           }
@@ -183,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,34 +198,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5765c1835b4e8849",
+  "active": "caeaed0a5fed608f",
   "lastOpenFiles": [
-    "Fullstack JavaScript 2023/FJSx23.md",
-    "JavaScript/CV Uppgift 2.md",
-    "Fullstack JavaScript 2023/Git.md",
-    "Time Investment.md",
-    "HTML/HTML.md",
-    "www.vecka.nu.md",
-    "Fullstack JavaScript 2023/CV Uppgift 1.md",
     "CSS/CSS.md",
-    "CSS/CSS Flexbox.md",
+    "Fullstack JavaScript 2023/FJSx23.md",
     "CSS/CSS Useful Properties.md",
     "JavaScript/JavaScript.md",
-    "JavaScript/forEach (arrays iteration).md",
-    "JavaScript/for...in (objects iteration).md",
+    "JavaScript/Array.md",
     "JavaScript/push, pop, shift, unshift, splice.md",
-    "Fullstack JavaScript 2023/Fonts.md",
-    "JavaScript/JSON.md",
+    "JavaScript/Object.md",
     "JavaScript/forEach.md",
+    "Fullstack JavaScript 2023/CV Uppgift 1.md",
+    "JavaScript/CV Uppgift 2.md",
+    "Time Investment.md",
+    "promises.md",
+    "templates/Untitled.md",
+    "Fullstack JavaScript 2023/Git.md",
+    "templates/Untitled.canvas",
+    "templates",
+    "Untitled.canvas",
+    "JavaScript/switch-case.md",
+    "JavaScript/Strict Mode.md",
+    "JavaScript/for...in.md",
+    "for..in.md",
+    "for...in.md",
     "JavaScript/for...in (objects).md",
-    "CSS/CSS Grid.md",
-    "JavaScript/if-else.md",
+    "JavaScript/Function Expression.md",
+    "JavaScript/DRY.md",
+    "JavaScript/Arrow Functions.md",
+    "JavaScript/function.md",
     "Fullstack JavaScript 2023/VS Code Hotkeys.md",
-    "Fullstack JavaScript 2023/APIs.md",
-    "Fullstack JavaScript 2023/Technical SEO.md",
-    "CSS/CSS Exercise Bank.md",
-    "Fullstack JavaScript 2023/Schema.md",
-    "Fullstack JavaScript 2023/Obsidian Markdown Syntax.md",
+    "JavaScript/Anonymous functions.md",
     "Fullstack JavaScript 2023/Courses",
     "Fullstack JavaScript 2023",
     "CSS",
