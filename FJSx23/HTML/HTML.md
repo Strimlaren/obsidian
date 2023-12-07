@@ -15,3 +15,4 @@ HTML is a language with which we build the content itself on a webpage. We use i
 - [[Semantics]]
 - [[HTML Forms]]
 - [[Lazy Loading]]
+- [[Data Attributes]]

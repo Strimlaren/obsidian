@@ -22,3 +22,17 @@ my_object["key5"]; // 99
 my_object.key10 = "Family Guy";
 ```
 
+### Dot vs Bracket notation
+Dot notation is arguably faster to write. However, if you want to fetch a key-value pair with a calculated expression, bracket notation is the only way that works.
+
+```javascript
+const my_object = {
+	firstName = "Anders",
+	lastName = "Andersson"
+}
+
+// Fetching name was a calculated expression
+const name = "Name";
+const first_name = my_object["first" + name]; // Anders
+const last_name = my_object["last" + name]; // Anderrsson
+```

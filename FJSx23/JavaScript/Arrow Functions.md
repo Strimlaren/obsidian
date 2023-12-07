@@ -41,4 +41,4 @@ const my_value = () => {
 my_value();
 ```
 
-**NOTE:** The arrow functions do not have a `this` keyword among others.
+**NOTE:** The arrow functions biggest advantage is they refer to the `.this` keyword of the object the function is called on, which makes more sense. Regular functions `.this` keyword refers to the scope from where it was called. Most other languages the functions behave the same way that arrow functions behave in JS.

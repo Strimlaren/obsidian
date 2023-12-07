@@ -4,11 +4,9 @@ Back to [[FJSx23]]
 	- String
 		- [[Template Strings]]
 		- Concatenation
-	- Number
-	- Boolean
+	- Number, Boolean
+	- Undefined, Null
 	- Symbol
-	- Undefined
-	- Null
 - #### Referenced datatypes
 	- [[Array]]
 		- [[push, pop, shift, unshift, splice]]
@@ -19,17 +17,20 @@ Back to [[FJSx23]]
 		- [[Function Expression]]
 		- [[Arrow Functions]]
 - #### Loops
-	- for
-	- while
-	- do while
+	- [[for]]
+	- while, do-while
 - #### Conditionals
 	- [[if-else + Ternary Operator]]
 	- [[switch-case]]
+- #### DOM Manipulation
+	- [[Top DOM Manipulation Methods]]
 - #### Concepts
 	- [[JSON]]
 		- [JSON Lint](https://jsonlint.com)
-	- [[Anonymous functions]]
+	- [[JavaScript/Local Storage]]
+	- [[Local Storage 1]]
 	- [[Hoisting]]
 	- [DRY (Don't repeat yourself)](DRY.md)
 	- [[Strict Mode]]
+	- [[console.log variants]]
 	- Proper (shallow) copying/cloning

@@ -9,4 +9,4 @@ An HTML form is used to collect user input. The user input is most often sent to
   <input type="text" id="lname" name="lname">  
 </form>
 ```
-### Input Types and their attributes
+### Input types and their attributes

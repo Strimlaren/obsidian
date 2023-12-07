@@ -1,4 +1,4 @@
-Back to [[JavaScript]]
+Back to [[JavaScript]] / [[Object]]
 ### Looping through objects with for in
 Used for looping through objects.
 
