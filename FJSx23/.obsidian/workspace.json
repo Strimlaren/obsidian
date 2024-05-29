@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js.md",
+                "file": "Node.js/Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Type Assertions.md",
+                "file": "Fullstack JavaScript 2023/FJSx23.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js.md",
+                "file": "Fullstack JavaScript 2023/FJSx23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js.md",
+                "file": "Fullstack JavaScript 2023/FJSx23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js.md"
+                "file": "Fullstack JavaScript 2023/FJSx23.md"
               }
             }
           }
@@ -186,29 +186,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "079bcd59f2239682",
+  "active": "e8232446039a6bba",
   "lastOpenFiles": [
-    "Fullstack JavaScript 2023/FJSx23.md",
-    "Node.js.md",
     "React/React.md",
+    "Fullstack JavaScript 2023/FJSx23.md",
+    "Fullstack JavaScript 2023/Git.md",
+    "TypeScript/Type Assertions.md",
+    "Node.js/Node.js.md",
+    "Node.js/Embedded JavaScript (ejs).md",
+    "Node.js",
+    "Fullstack JavaScript 2023/Obsidian Markdown Syntax.md",
+    "React/Screenshot_17.png",
+    "React/Screenshot_1.png",
+    "React/Screenshot_5.png",
+    "React/Screenshot_6.png",
+    "React/Screenshot_7.png",
+    "Node.js/sendFile( ).md",
+    "CSS/CSS.md",
+    "CSS/CSS Property.md",
+    "Node.js/http.md",
+    "Node.js/nodemon.md",
+    "Node.js/Router.md",
     "TypeScript/TypeScript.md",
     "TypeScript/tsconfig.json.md",
-    "TypeScript/Type Assertions.md",
-    "sendFile( ).md",
-    "nodemon.md",
-    "http.md",
-    "Serving static files.md",
-    "Screenshot_9.png",
-    "Screenshot_8.png",
-    "Screenshot_7.png",
-    "Screenshot_6.png",
-    "Screenshot_5.png",
-    "Screenshot_4.png",
-    "Screenshot_3.png",
-    "Screenshot_2.png",
-    "Screenshot_17.png",
-    "Screenshot_16.png",
-    "Router.md",
+    "Node.js/Serving static files.md",
+    "React/Screenshot_9.png",
+    "React/Screenshot_8.png",
+    "React/Screenshot_4.png",
+    "React/Screenshot_3.png",
+    "React/Screenshot_2.png",
     "React/useState.md",
     "React/useReducer.md",
     "React/Two-way-binding.md",
@@ -218,12 +224,6 @@
     "React/Proxy-props.md",
     "React/Props.md",
     "React/Old state - New state.md",
-    "React/Loading images properly.md",
-    "React/JSX.md",
-    "React/Immutably updating states.md",
-    "React/How React updates UI.md",
-    "React/Hooks.md",
-    "React/Hook.md",
     "React",
     "TypeScript",
     "templates/Untitled.canvas",
@@ -234,7 +234,6 @@
     "CSS",
     "JavaScript",
     "HTML",
-    "Fullstack JavaScript 2023/Courses/Webbutveckling & Webbteknik",
-    "Fullstack JavaScript 2023/Courses/IT Tech & Operations"
+    "Fullstack JavaScript 2023/Courses/Webbutveckling & Webbteknik"
   ]
 }
