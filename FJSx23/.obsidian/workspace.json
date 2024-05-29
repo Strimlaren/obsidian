@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "ed98a98d77f9a9f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8232446039a6bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/Type Assertions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "file": "TypeScript/Type Assertions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "file": "TypeScript/Type Assertions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -143,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md"
+                "file": "TypeScript/Type Assertions.md"
               }
             }
           }
@@ -152,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,34 +186,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "079bcd59f2239682",
+  "active": "9466c00169796236",
   "lastOpenFiles": [
-    "Fullstack JavaScript 2023/Obsidian Markdown Syntax.md",
+    "TypeScript/Narrowing & Typeguards.md",
+    "TypeScript/Installing and running TypeScript.md",
     "Fullstack JavaScript 2023/FJSx23.md",
+    "TypeScript/TypeScript.md",
+    "Fullstack JavaScript 2023/APIs.md",
+    "Fullstack JavaScript 2023/Obsidian Markdown Syntax.md",
+    "JavaScript/JavaScript.md",
+    "Fullstack JavaScript 2023/Git.md",
+    "CSS/CSS.md",
+    "JavaScript/CV Uppgift 2.md",
+    "CSS/CSS Selector.md",
+    "Fullstack JavaScript 2023/VS Code Hotkeys.md",
+    "TypeScript/Type annotation.md",
+    "TypeScript/Type Assertions.md",
+    "TypeScript/Unions & Intersections.md",
+    "TypeScript/tsconfig.json.md",
+    "Fullstack JavaScript 2023/Windows & Apps hotkeys.md",
+    "TypeScript",
+    "JavaScript/Array.md",
     "JavaScript/Arrow Functions.md",
     "JavaScript/Hoisting.md",
     "arrow.md",
-    "JavaScript/JavaScript.md",
     "JavaScript/Local Storage.md",
     "JavaScript/Local Storage 1.md",
     "JavaScript/Top DOM Manipulation Methods.md",
     "JavaScript/template strings.md",
-    "Fullstack JavaScript 2023/VS Code Hotkeys.md",
     "Fullstack JavaScript 2023/CV Uppgift 1.md",
-    "JavaScript/The Dashboard.md",
-    "Fullstack JavaScript 2023/APIs.md",
-    "Fullstack JavaScript 2023/Git.md",
-    "HTML/Data Attributes.md",
-    "HTML/HTML.md",
-    "Fullstack JavaScript 2023/Windows & Apps hotkeys.md",
-    "Data.md",
-    "JavaScript/Object-Oriented Programming (OOP).md",
-    "CSS/CSS.md",
-    "CSS/CSS Selector.md",
-    "JavaScript/push, pop, shift, unshift, splice.md",
-    "JavaScript/if-else + Ternary Operator.md",
-    "CSS/CSS Grid.md",
-    "HTML/Data.md",
     "JavaScript/Pasted image 20231204161816.png",
     "JavaScript/Pasted image 20231204161920.png",
     "templates/Untitled.canvas",

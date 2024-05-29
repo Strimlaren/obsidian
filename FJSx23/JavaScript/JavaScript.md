@@ -16,6 +16,7 @@ Back to [[FJSx23]]
 	- [[Function]]
 		- [[Function Expression]]
 		- [[Arrow Functions]]
+		- [[... arguments]]
 - #### Loops
 	- [[for]]
 	- while, do-while
@@ -25,10 +26,10 @@ Back to [[FJSx23]]
 - #### DOM Manipulation
 	- [[Top DOM Manipulation Methods]]
 - #### Concepts
+	- [[Object-Oriented Programming (OOP)]]
 	- [[JSON]]
 		- [JSON Lint](https://jsonlint.com)
-	- [[JavaScript/Local Storage]]
-	- [[Local Storage 1]]
+	- [[Local Storage]]
 	- [[Hoisting]]
 	- [DRY (Don't repeat yourself)](DRY.md)
 	- [[Strict Mode]]
