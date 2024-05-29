@@ -1,4 +1,4 @@
-Back to [[JavaScript]] / [Functions](function.md)
+Back to [[JavaScript]] / [Functions](Functions.md)
 
 ### Hoisting
 

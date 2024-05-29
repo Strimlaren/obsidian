@@ -1,4 +1,4 @@
-Back to [[JavaScript]] / [Functions](Function)
+Back to [[JavaScript]] / [Functions](Functions.md)
 ### Arrow functions
 The arrow functions which are mainly syntactical sugar, look a bit differently depending on how many parameters the function will have and wether or not it needs to contain more than one line of code.
 

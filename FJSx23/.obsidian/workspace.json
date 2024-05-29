@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5d173a211aaddf8c",
+        "id": "297e382909f36389",
         "type": "tabs",
         "children": [
           {
-            "id": "079bcd59f2239682",
+            "id": "5765c1835b4e8849",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e672b8296a90be6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee2ee657e1f1e03c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Middleware.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -152,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,39 +185,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "079bcd59f2239682",
+  "active": "5765c1835b4e8849",
   "lastOpenFiles": [
-    "Fullstack JavaScript 2023/Obsidian Markdown Syntax.md",
+    "Middleware.md",
+    "Express.js.md",
+    "Router.md",
     "Fullstack JavaScript 2023/FJSx23.md",
-    "JavaScript/Arrow Functions.md",
-    "JavaScript/Hoisting.md",
-    "arrow.md",
-    "JavaScript/JavaScript.md",
-    "JavaScript/Local Storage.md",
-    "JavaScript/Local Storage 1.md",
-    "JavaScript/Top DOM Manipulation Methods.md",
-    "JavaScript/template strings.md",
-    "Fullstack JavaScript 2023/VS Code Hotkeys.md",
-    "Fullstack JavaScript 2023/CV Uppgift 1.md",
-    "JavaScript/The Dashboard.md",
-    "Fullstack JavaScript 2023/APIs.md",
-    "Fullstack JavaScript 2023/Git.md",
-    "HTML/Data Attributes.md",
-    "HTML/HTML.md",
-    "Fullstack JavaScript 2023/Windows & Apps hotkeys.md",
+    "Node/Node.js.md",
+    "nodemon.md",
+    "templates/basic.md",
+    "Node/fs (File System).md",
+    "React/React.md",
+    "http.md",
+    "Node/REPL.md",
+    "Node/readFileSync & readFile.md",
+    "React/useReducer.md",
+    "React/Two-way-binding.md",
+    "TypeScript.md",
+    "React/The 'children' prop.md",
+    "Node/Terminal Commands.md",
+    "React/Starting a new React Project with Vite.md",
+    "2024-03-16.md",
     "Data.md",
-    "JavaScript/Object-Oriented Programming (OOP).md",
-    "CSS/CSS.md",
-    "CSS/CSS Selector.md",
-    "JavaScript/push, pop, shift, unshift, splice.md",
-    "JavaScript/if-else + Ternary Operator.md",
-    "CSS/CSS Grid.md",
-    "HTML/Data.md",
-    "JavaScript/Pasted image 20231204161816.png",
-    "JavaScript/Pasted image 20231204161920.png",
-    "templates/Untitled.canvas",
+    "React",
+    "Node",
+    "Screenshot_15.png",
+    "Screenshot_16.png",
+    "Screenshot_17.png",
+    "Node/readline.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/The Dashboard.md",
+    "HTML/HTML.md",
+    "HTML/Semantics.md",
+    "Fullstack JavaScript 2023/Schema.md",
+    "Screenshot_14.png",
+    "Screenshot_13.png",
+    "Screenshot_12.png",
+    "Screenshot_11.png",
+    "Screenshot_10.png",
+    "Screenshot_9.png",
+    "Screenshot_8.png",
     "templates",
-    "Untitled.canvas",
     "Fullstack JavaScript 2023/Courses",
     "Fullstack JavaScript 2023",
     "CSS",

@@ -13,4 +13,4 @@ splice  = grab a specified part of a string
 */
 ```
 
-Note: `slice()` skapar en helt ny array. Bra för att kopiera arrayer.
+Note: `slice()` creates a completely new array. Good for copying arrays.

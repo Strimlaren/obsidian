@@ -13,7 +13,7 @@ Back to [[FJSx23]]
 		- [[forEach]]
 	- [[Object]]
 		- [[for...in]]
-	- [[Function]]
+	- [[Functions]]
 		- [[Function Expression]]
 		- [[Arrow Functions]]
 - #### Loops
@@ -28,7 +28,6 @@ Back to [[FJSx23]]
 	- [[JSON]]
 		- [JSON Lint](https://jsonlint.com)
 	- [[JavaScript/Local Storage]]
-	- [[Local Storage 1]]
 	- [[Hoisting]]
 	- [DRY (Don't repeat yourself)](DRY.md)
 	- [[Strict Mode]]

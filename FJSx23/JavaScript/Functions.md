@@ -13,6 +13,6 @@ calculate_average(1, 5);
 
 Functions can take any or no parameters as in-values. When calling the function, one must pass the required arguments. The function can be set to return a value which can then be used for other things from the point where the function was called. 
 ##### Hoisting
-Functions in JS are automatically [hoised](Hoisting.md), which means they will be moved to the top of the document at runtime and be available for use immediately in the code, no matter where the function was declared.
+Functions in JS are automatically [hoisted](Hoisting.md), which means they will be moved to the top of the document at runtime and be available for use immediately in the code, no matter where the function was declared.
 ##### Other types of functions
 There are other types of functions like [[Arrow Functions]], [Function Expressions](Function Expression)
