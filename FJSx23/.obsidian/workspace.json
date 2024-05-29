@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "file": "Node/Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "file": "Node/Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "file": "Node/Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md"
+                "file": "Node/Node.js.md"
               }
             }
           }
@@ -187,37 +187,38 @@
   },
   "active": "5765c1835b4e8849",
   "lastOpenFiles": [
-    "Middleware.md",
-    "Express.js.md",
-    "Router.md",
-    "Fullstack JavaScript 2023/FJSx23.md",
+    "sendFile( ).md",
     "Node/Node.js.md",
+    "Serving static files.md",
+    "Embedded JavaScript (ejs).md",
+    "Middleware.md",
+    "Fullstack JavaScript 2023/FJSx23.md",
+    "Router.md",
+    "Express.js.md",
+    "Node/REPL.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/Unions & Intersections.md",
+    "TypeScript/Type Assertions.md",
+    "TypeScript/Type annotation.md",
+    "TypeScript/tsconfig.json.md",
+    "TypeScript/Narrowing & Typeguards.md",
+    "TypeScript/Installing and running TypeScript.md",
+    "TypeScript",
+    "JavaScript/Object-Oriented Programming (OOP).md",
+    "Fullstack JavaScript 2023/Windows & Apps hotkeys.md",
     "nodemon.md",
     "templates/basic.md",
     "Node/fs (File System).md",
     "React/React.md",
     "http.md",
-    "Node/REPL.md",
     "Node/readFileSync & readFile.md",
     "React/useReducer.md",
     "React/Two-way-binding.md",
-    "TypeScript.md",
-    "React/The 'children' prop.md",
-    "Node/Terminal Commands.md",
-    "React/Starting a new React Project with Vite.md",
-    "2024-03-16.md",
-    "Data.md",
     "React",
     "Node",
     "Screenshot_15.png",
     "Screenshot_16.png",
     "Screenshot_17.png",
-    "Node/readline.md",
-    "JavaScript/JavaScript.md",
-    "JavaScript/The Dashboard.md",
-    "HTML/HTML.md",
-    "HTML/Semantics.md",
-    "Fullstack JavaScript 2023/Schema.md",
     "Screenshot_14.png",
     "Screenshot_13.png",
     "Screenshot_12.png",
@@ -231,7 +232,6 @@
     "CSS",
     "JavaScript",
     "HTML",
-    "Fullstack JavaScript 2023/Courses/Webbutveckling & Webbteknik",
-    "Fullstack JavaScript 2023/Courses/IT Tech & Operations"
+    "Fullstack JavaScript 2023/Courses/Webbutveckling & Webbteknik"
   ]
 }

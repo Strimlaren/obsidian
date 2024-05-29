@@ -11,7 +11,7 @@ Version Control System. Used to backup your code, keep several versions of your 
 | `git remote -v`                | Get remote repo address and its local reference name.       |
 | `git remote add <name> <link>` | Add link to external repo and select a local name for it.   |
 | `git remote set-url <link>`    | Change the remote address of repo.                          |
-| `git push <name> <branch>`     | Push the selected branch of the (name) repo to remote repo. |
+| `git push origin <branch>`     | Push specificed branch to <name> origin. |
 | `git clone <link>`             | Copy the repo from the link to the local repo.              |
 | `git pull`                     | Pull remote changes to local git repo.                      |
 | `git branch -D <name>`         | Delete branch with selected name.                           |
