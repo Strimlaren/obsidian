@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "297e382909f36389",
+        "id": "5d173a211aaddf8c",
         "type": "tabs",
         "children": [
           {
-            "id": "5765c1835b4e8849",
+            "id": "079bcd59f2239682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Node.js.md",
+                "file": "Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "e672b8296a90be6b",
+        "id": "ed98a98d77f9a9f0",
         "type": "tabs",
         "children": [
           {
-            "id": "ee2ee657e1f1e03c",
+            "id": "e8232446039a6bba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middleware.md",
+                "file": "TypeScript/Type Assertions.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Node.js.md",
+                "file": "Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Node.js.md",
+                "file": "Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Node.js.md"
+                "file": "Node.js.md"
               }
             }
           }
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,53 +186,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5765c1835b4e8849",
+  "active": "079bcd59f2239682",
   "lastOpenFiles": [
-    "sendFile( ).md",
-    "Node/Node.js.md",
-    "Serving static files.md",
-    "Embedded JavaScript (ejs).md",
-    "Middleware.md",
     "Fullstack JavaScript 2023/FJSx23.md",
-    "Router.md",
-    "Express.js.md",
-    "Node/REPL.md",
-    "TypeScript/TypeScript.md",
-    "TypeScript/Unions & Intersections.md",
-    "TypeScript/Type Assertions.md",
-    "TypeScript/Type annotation.md",
-    "TypeScript/tsconfig.json.md",
-    "TypeScript/Narrowing & Typeguards.md",
-    "TypeScript/Installing and running TypeScript.md",
-    "TypeScript",
-    "JavaScript/Object-Oriented Programming (OOP).md",
-    "Fullstack JavaScript 2023/Windows & Apps hotkeys.md",
-    "nodemon.md",
-    "templates/basic.md",
-    "Node/fs (File System).md",
+    "Node.js.md",
     "React/React.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/tsconfig.json.md",
+    "TypeScript/Type Assertions.md",
+    "sendFile( ).md",
+    "nodemon.md",
     "http.md",
-    "Node/readFileSync & readFile.md",
-    "React/useReducer.md",
-    "React/Two-way-binding.md",
-    "React",
-    "Node",
-    "Screenshot_15.png",
-    "Screenshot_16.png",
-    "Screenshot_17.png",
-    "Screenshot_14.png",
-    "Screenshot_13.png",
-    "Screenshot_12.png",
-    "Screenshot_11.png",
-    "Screenshot_10.png",
+    "Serving static files.md",
     "Screenshot_9.png",
     "Screenshot_8.png",
+    "Screenshot_7.png",
+    "Screenshot_6.png",
+    "Screenshot_5.png",
+    "Screenshot_4.png",
+    "Screenshot_3.png",
+    "Screenshot_2.png",
+    "Screenshot_17.png",
+    "Screenshot_16.png",
+    "Router.md",
+    "React/useState.md",
+    "React/useReducer.md",
+    "React/Two-way-binding.md",
+    "React/The 'children' prop.md",
+    "React/Starting a new React Project with Vite.md",
+    "React/Redux.md",
+    "React/Proxy-props.md",
+    "React/Props.md",
+    "React/Old state - New state.md",
+    "React/Loading images properly.md",
+    "React/JSX.md",
+    "React/Immutably updating states.md",
+    "React/How React updates UI.md",
+    "React/Hooks.md",
+    "React/Hook.md",
+    "React",
+    "TypeScript",
+    "templates/Untitled.canvas",
     "templates",
+    "Untitled.canvas",
     "Fullstack JavaScript 2023/Courses",
     "Fullstack JavaScript 2023",
     "CSS",
     "JavaScript",
     "HTML",
-    "Fullstack JavaScript 2023/Courses/Webbutveckling & Webbteknik"
+    "Fullstack JavaScript 2023/Courses/Webbutveckling & Webbteknik",
+    "Fullstack JavaScript 2023/Courses/IT Tech & Operations"
   ]
 }
