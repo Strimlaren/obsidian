@@ -11,3 +11,15 @@ let server = createServer((request, response) => {
 
 server.listen(3000);
 ```
+
+Also, a shorthand can be used in [[Express.js]]
+```javascript
+import express from "express";
+let app = express();
+
+app.get("/", (req,res) => {
+	res.send("Successfully hit home.");
+})
+
+app.listen(3000);
+```

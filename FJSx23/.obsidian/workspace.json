@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5d173a211aaddf8c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "079bcd59f2239682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/Node.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ed98a98d77f9a9f0",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "file": "Node.js/Express.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "file": "Node.js/Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md",
+                "file": "Node.js/Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullstack JavaScript 2023/FJSx23.md"
+                "file": "Node.js/Express.md"
               }
             }
           }
@@ -188,11 +170,26 @@
   },
   "active": "e8232446039a6bba",
   "lastOpenFiles": [
-    "React/React.md",
+    "Node/Terminal Commands.md",
+    "Node/fs (File System).md",
+    "Node/REPL.md",
+    "Node/readline.md",
+    "Node/readFileSync & readFile.md",
+    "Node/Node.js.md",
+    "Node",
+    "Node.js/sendFile( ).md",
+    "Node.js/Express.md",
+    "Node.js/Node.js.md",
+    "static.md",
+    "body-parser.md",
+    "Why ES5 Syntax.md",
+    "send().md",
+    "Node.js/path.md",
     "Fullstack JavaScript 2023/FJSx23.md",
+    "Node.js/http.md",
+    "React/React.md",
     "Fullstack JavaScript 2023/Git.md",
     "TypeScript/Type Assertions.md",
-    "Node.js/Node.js.md",
     "Node.js/Embedded JavaScript (ejs).md",
     "Node.js",
     "Fullstack JavaScript 2023/Obsidian Markdown Syntax.md",
@@ -201,29 +198,16 @@
     "React/Screenshot_5.png",
     "React/Screenshot_6.png",
     "React/Screenshot_7.png",
-    "Node.js/sendFile( ).md",
     "CSS/CSS.md",
     "CSS/CSS Property.md",
-    "Node.js/http.md",
     "Node.js/nodemon.md",
     "Node.js/Router.md",
     "TypeScript/TypeScript.md",
-    "TypeScript/tsconfig.json.md",
-    "Node.js/Serving static files.md",
     "React/Screenshot_9.png",
     "React/Screenshot_8.png",
     "React/Screenshot_4.png",
     "React/Screenshot_3.png",
     "React/Screenshot_2.png",
-    "React/useState.md",
-    "React/useReducer.md",
-    "React/Two-way-binding.md",
-    "React/The 'children' prop.md",
-    "React/Starting a new React Project with Vite.md",
-    "React/Redux.md",
-    "React/Proxy-props.md",
-    "React/Props.md",
-    "React/Old state - New state.md",
     "React",
     "TypeScript",
     "templates/Untitled.canvas",
@@ -233,7 +217,6 @@
     "Fullstack JavaScript 2023",
     "CSS",
     "JavaScript",
-    "HTML",
-    "Fullstack JavaScript 2023/Courses/Webbutveckling & Webbteknik"
+    "HTML"
   ]
 }

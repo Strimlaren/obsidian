@@ -13,7 +13,7 @@
 - [[TypeScript]]
 - [[React]]
 - [[Node.js]]
-- [[Express.js]]
+- [[Express]]
 - Vue
 - Figma
 - [[Git]]
