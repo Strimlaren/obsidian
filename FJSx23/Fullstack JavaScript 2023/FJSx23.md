@@ -1,5 +1,4 @@
 ### FJSx23 Course Contents
-- [[Schema]]
 - [Zoom Link](https://us06web.zoom.us/j/3780272155)
 - [[Obsidian Markdown Syntax]]
 - [[VS Code Hotkeys]]
@@ -13,7 +12,7 @@
 - [[TypeScript]]
 - [[React]]
 - [[Node.js]]
-- [[Express]]
+	- [[Express]]
 - Vue
 - Figma
 - [[Git]]

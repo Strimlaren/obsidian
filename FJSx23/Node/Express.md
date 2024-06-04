@@ -10,6 +10,13 @@ Express is a minimal and flexible Node.js web application framework that provide
 ##### Express Methods
 - [[sendFile( )]]
 - [[send()]]
+- [[router()]]
 ##### Useful Middleware
 - [[body-parser]]
 - [[static]]
+- [[express-validator]]
+##### Templating Engines
+- [[ejs (Embedded JavaScript)]]
+- [[pug]]
+##### Misc. Concepts
+- [[MVC]]

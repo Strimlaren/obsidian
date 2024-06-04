@@ -16,14 +16,15 @@ With Node, it is possible to use JavaScript as a backend. It is a RUNTIME ENVIRO
 - Node.js files have extension ".js".
 ### What is NPM?
 NPM stands for Node Package Manager. NPM is a Command line utility to install Node.js packages, perform version management and dependency management of Node.js packages.
-### Node.js APIs
-- [[readline]]
-- [[fs (File System)]]
+##### Node.js Modules
 - [[http]]
+- [[path]]
+- [[readline]]
+- [[fs]]
+##### Useful 3rd-party packages
+- [[Express]]
 - [[nodemon]]
+##### Misc Concepts
+- [[Why ES5 Syntax]]
 - [[Terminal Commands]]
-- [[Embedded JavaScript (ejs)]]
-- [[Serving static files]]
-- [[sendFile( )]]
 - [[REPL]]
-

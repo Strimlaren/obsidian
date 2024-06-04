@@ -1,9 +1,5 @@
 Back to [[FJSx23]]
 ### What is it?
-
-
-
-
 - Titel
 - Meta tags
 	- `<meta name="description" content="text here"`
@@ -17,7 +13,6 @@ Back to [[FJSx23]]
 - Kvalitativt innehåll
 - Relevanta Sökord
 - Unikt innehåll
-
 
 Bra metataggar
 title description

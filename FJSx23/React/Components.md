@@ -4,6 +4,7 @@ Components are the core way of structuring code with React. Instead of handling 
 
 ### What is a component?
 A React component is a reusable piece of UI (User Interface) that encapsulates certain functionality and rendering logic. It can be a simple element like a button or a complex element like a form or a navigation bar. Components can manage their own state and properties, making them independent and modular building blocks in React applications.
-![[Screenshot_1.png]]![[Screenshot_4.png]]![[Screenshot_11.png]]
-### Component example
+![[Screenshot_1.png]]![[Screenshot_4.png]]
+![[Screenshot_11.png]]
+##### Component example
 ![[Screenshot_5.png]]

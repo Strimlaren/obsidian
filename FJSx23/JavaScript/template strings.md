@@ -1,5 +1,4 @@
 Back to [[JavaScript]]
-
 ### Template strings
 A faster, better, more readable way to concatenate and create strings, with the ability to directly insert variables to the string.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/Express.md",
+                "file": "Node/Express.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Express.md",
+                "file": "Node/Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/Express.md",
+                "file": "Node/Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/Express.md"
+                "file": "Node/Express.md"
               }
             }
           }
@@ -170,44 +170,44 @@
   },
   "active": "e8232446039a6bba",
   "lastOpenFiles": [
-    "Node/Terminal Commands.md",
-    "Node/fs (File System).md",
-    "Node/REPL.md",
-    "Node/readline.md",
-    "Node/readFileSync & readFile.md",
-    "Node/Node.js.md",
-    "Node",
-    "Node.js/sendFile( ).md",
-    "Node.js/Express.md",
-    "Node.js/Node.js.md",
-    "static.md",
-    "body-parser.md",
-    "Why ES5 Syntax.md",
-    "send().md",
-    "Node.js/path.md",
     "Fullstack JavaScript 2023/FJSx23.md",
-    "Node.js/http.md",
-    "React/React.md",
+    "Fullstack JavaScript 2023/Technical SEO.md",
+    "Fullstack JavaScript 2023/APIs.md",
     "Fullstack JavaScript 2023/Git.md",
-    "TypeScript/Type Assertions.md",
-    "Node.js/Embedded JavaScript (ejs).md",
-    "Node.js",
+    "Node/Node.js.md",
     "Fullstack JavaScript 2023/Obsidian Markdown Syntax.md",
+    "HTML/HTML.md",
+    "HTML/HTML Forms.md",
+    "HTML/WYSIWYG.md",
+    "HTML/HTML Element.md",
+    "React/React.md",
+    "React/Props.md",
+    "React/Components.md",
+    "React/JSX.md",
+    "React/Loading images properly.md",
+    "React/Hooks.md",
+    "React/Proxy-props.md",
+    "CSS/CSS.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/template strings.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/tsconfig.json.md",
+    "Node/Terminal Commands.md",
+    "Node/Router.md",
+    "Node/Express.md",
+    "Node/router().md",
+    "Node/MVC.png",
+    "Node",
+    "Node.js",
     "React/Screenshot_17.png",
     "React/Screenshot_1.png",
     "React/Screenshot_5.png",
     "React/Screenshot_6.png",
     "React/Screenshot_7.png",
-    "CSS/CSS.md",
-    "CSS/CSS Property.md",
-    "Node.js/nodemon.md",
-    "Node.js/Router.md",
-    "TypeScript/TypeScript.md",
     "React/Screenshot_9.png",
     "React/Screenshot_8.png",
     "React/Screenshot_4.png",
     "React/Screenshot_3.png",
-    "React/Screenshot_2.png",
     "React",
     "TypeScript",
     "templates/Untitled.canvas",

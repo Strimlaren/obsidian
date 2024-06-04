@@ -4,11 +4,11 @@ Config file that can be created with terminal command `tsc --init` will land in 
 
 ##### Useful properties
 
-| Property      | Description                                                     |
-| ------------- | --------------------------------------------------------------- |
-| target        | Defines the target ECMAScript version, like es2016              |
-| module        | Defines the module system type, like es2015, commonjs, esnext   |
+| Property      | Description                                                    |
+| ------------- | -------------------------------------------------------------- |
+| target        | Defines the target ECMAScript version, like es2016             |
+| module        | Defines the module system type, like es2015, commonjs, esnext  |
 | noEmitOnError | Will refuse compilation of .js files if there are errors in ts |
-| outDir        | Specifies the folder of the compiled js files                   |
-| rootDir       | Specifies the golder of the ts files                                                                |
-|               |                                                                 |
+| outDir        | Specifies the folder of the compiled js files                  |
+| rootDir       | Specifies the folder of the ts files                           |
+|               |                                                                |
