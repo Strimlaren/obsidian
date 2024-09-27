@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/express-validator.md",
+                "file": "Node/Express.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/express-validator.md",
+                "file": "Node/Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/express-validator.md",
+                "file": "Node/Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/express-validator.md"
+                "file": "Node/Express.md"
               }
             }
           }
@@ -169,13 +169,20 @@
   },
   "active": "e8232446039a6bba",
   "lastOpenFiles": [
+    "bcrypt.md",
     "Node/Express.md",
+    "cors.md",
+    "helmet.md",
+    "passport.md",
+    "cookie-parser.md",
+    "session.md",
+    "session-store.md",
+    "Node/express-validator.md",
     "Node/Node.js.md",
     "Fullstack JavaScript 2023/FJSx23.md",
     "JavaScript/CV Uppgift 2.md",
     "MongoDB/MongoDB.md",
     "mongoose.md",
-    "Node/express-validator.md",
     "TypeScript/TypeScript.md",
     "TypeScript/Type annotation.md",
     "TypeScript/tsconfig.json.md",
@@ -188,13 +195,6 @@
     "JavaScript/JavaScript.md",
     "JavaScript/Array.md",
     "JavaScript/for.md",
-    "JavaScript/switch-case.md",
-    "React/Redux.md",
-    "React/React.md",
-    "Fullstack JavaScript 2023/Obsidian Markdown Syntax.md",
-    "Node/static.md",
-    "Node/body-parser.md",
-    "Node/router().md",
     "MongoDB",
     "MongoDB/mongodb1.png",
     "Node/MVC.png",
