@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed98a98d77f9a9f0",
+        "id": "297e382909f36389",
         "type": "tabs",
         "children": [
           {
-            "id": "e8232446039a6bba",
+            "id": "5765c1835b4e8849",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Express.md",
+                "file": "Node/express-validator.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Express.md",
+                "file": "Node/express-validator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Express.md",
+                "file": "Node/express-validator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Express.md"
+                "file": "Node/express-validator.md"
               }
             }
           }
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,55 +167,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8232446039a6bba",
+  "active": "5765c1835b4e8849",
   "lastOpenFiles": [
-    "Fullstack JavaScript 2023/FJSx23.md",
-    "Fullstack JavaScript 2023/Technical SEO.md",
-    "Fullstack JavaScript 2023/APIs.md",
-    "Fullstack JavaScript 2023/Git.md",
-    "Node/Node.js.md",
-    "Fullstack JavaScript 2023/Obsidian Markdown Syntax.md",
-    "HTML/HTML.md",
-    "HTML/HTML Forms.md",
-    "HTML/WYSIWYG.md",
-    "HTML/HTML Element.md",
-    "React/React.md",
-    "React/Props.md",
-    "React/Components.md",
-    "React/JSX.md",
-    "React/Loading images properly.md",
-    "React/Hooks.md",
-    "React/Proxy-props.md",
-    "CSS/CSS.md",
-    "JavaScript/JavaScript.md",
-    "JavaScript/template strings.md",
-    "TypeScript/TypeScript.md",
-    "TypeScript/tsconfig.json.md",
-    "Node/Terminal Commands.md",
-    "Node/Router.md",
     "Node/Express.md",
-    "Node/router().md",
-    "Node/MVC.png",
-    "Node",
-    "Node.js",
-    "React/Screenshot_17.png",
-    "React/Screenshot_1.png",
-    "React/Screenshot_5.png",
-    "React/Screenshot_6.png",
-    "React/Screenshot_7.png",
+    "Fullstack JavaScript 2023/FJSx23.md",
+    "Node/Node.js.md",
+    "Node/REPL.md",
+    "Node/Why ES5 Syntax.md",
+    "Node/Terminal Commands.md",
+    "Node/ejs (Embedded JavaScript).md",
+    "Node/pug.md",
+    "Fullstack JavaScript 2023/Git.md",
     "React/Screenshot_9.png",
     "React/Screenshot_8.png",
+    "React/Screenshot_7.png",
+    "React/Screenshot_6.png",
+    "React/Screenshot_5.png",
     "React/Screenshot_4.png",
     "React/Screenshot_3.png",
-    "React",
+    "React/Screenshot_2.png",
+    "React/Screenshot_17.png",
+    "React/Screenshot_16.png",
+    "Node/static.md",
+    "Node/sendFile( ).md",
+    "Node/send().md",
+    "Node/router().md",
+    "Node/path.md",
+    "Node/nodemon.md",
+    "Node/http.md",
+    "Node/fs.md",
+    "Node/express-validator.md",
+    "Node/body-parser.md",
+    "Node/Router.md",
+    "Node/Middleware.md",
+    "Node/MVC.md",
+    "Node/Express.js.md",
+    "Node/Embedded JavaScript (ejs).md",
+    "sendFile( ).md",
+    "Serving static files.md",
     "TypeScript",
-    "templates/Untitled.canvas",
+    "React",
+    "Node",
     "templates",
-    "Untitled.canvas",
     "Fullstack JavaScript 2023/Courses",
     "Fullstack JavaScript 2023",
     "CSS",
     "JavaScript",
-    "HTML"
+    "HTML",
+    "Fullstack JavaScript 2023/Courses/Webbutveckling & Webbteknik"
   ]
 }
