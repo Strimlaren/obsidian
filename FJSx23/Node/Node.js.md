@@ -22,8 +22,12 @@ NPM stands for Node Package Manager. NPM is a Command line utility to install No
 - [[readline]]
 - [[fs]]
 ##### Useful 3rd-party packages
-- [[Express]]
+- [[express]]
+- [[graphql]]
+- [[prisma]]
 - [[nodemon]]
+- [[dotenv]]
+- [[mongoose]]
 ##### Misc Concepts
 - [[Why ES5 Syntax]]
 - [[Terminal Commands]]

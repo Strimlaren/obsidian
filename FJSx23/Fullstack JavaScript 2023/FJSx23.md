@@ -12,23 +12,25 @@
 - [[TypeScript]]
 - [[React]]
 - [[Node.js]]
-	- [[Express]]
+- [[MongoDB]]
+	- [[mongosh]]
+- SQL	
 - Vue
 - Figma
 - [[Git]]
 ### Inlämningsuppgifter
-- ##### IT Tech & Operations (VG)
+- ##### IT Tech & Operations
 	- [ITTO Mirza](https://docs.google.com/document/d/1OtF9i_kqT6HsosNTMF2TOYi5N78cs0pOEapTozHHYbs/edit)
-- ##### Webbutveckling & Webbteknik (VG)
+- ##### Webbutveckling & Webbteknik
 	- [[CV Uppgift 1]]
 	- [[CV Uppgift 2]]
 	- [Teorihandboken](https://docs.google.com/document/d/12l5-3fn-K5E-fF8figw6Dy3jf1lCauYCz649LldxGec/edit)
-- ##### Avancerad Frontendutveckling & Typescript (VG)
+- ##### Avancerad Frontendutveckling & Typescript
 	- [[The Dashboard]]
 	- [Labb: Typescript](https://qlok.notion.site/f6824718180c40b0aec01cb61068fb62?v=ad9bbaab79c54d44be051517590e62b3&p=3d15bb32ee074545b89f9204c164ec96&pm=c)
 	- [Teorihandboken](https://docs.google.com/document/d/1AXcUnlGgO9zULRychcuCxS3eT1fHG1w70RP-ltMmwnE/edit)
 	- [Grupprojekt](https://qlok.notion.site/f6824718180c40b0aec01cb61068fb62?v=ad9bbaab79c54d44be051517590e62b3&p=20a17198278743c888e00ec93c0c3ece&pm=c)
-- ##### React (VG)
+- ##### React
 	- [Kanban Board](https://qlok.notion.site/React-985646ac34184a5792058c6a39e7d17d?p=79a7eedf42694fcf8f98e4f967556183&pm=c)
 	- [Labb: Typescript](https://qlok.notion.site/React-985646ac34184a5792058c6a39e7d17d?p=ca11126c940f43c886dbeb671bbd718f&pm=c)
 	- [Grupproject React](https://qlok.notion.site/React-985646ac34184a5792058c6a39e7d17d?p=ec7570a691f540fbb08c6d25d878447b&pm=c)
@@ -36,11 +38,11 @@
 - ##### Backendutveckling och APIer
 	- 
 	- [Grupparbete](https://qlok.notion.site/Projektarbete-individuell-och-eller-gruppvis-20a17198278743c888e00ec93c0c3ece)
-- ##### Projektmetodik & Agila Metoder (VG)
+- ##### Projektmetodik & Agila Metoder
 	- [Individuell Reflektion](https://docs.google.com/document/d/17dr-A3xhPA5bQTCQIG-TsoQVVkhNB6YTKyw3ZoP7X0Q/edit)
-- ##### UX, Användbarhet och Tillgänglighet (G)
+- ##### UX, Användbarhet och Tillgänglighet
 	- [Teorihandboken](https://docs.google.com/document/d/1qJ8icqvziTwEznFF6OEsdOL8PH75RO42ceW_8A608bw/edit)
-### IT Knowledgebase
+### IT Misc Concepts
 - [[OSI-Model]]
 - [[Protocols]]
 - [[HTTP Protocol]]

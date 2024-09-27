@@ -24,7 +24,7 @@ import { query } from "express-validator";
 ...
 
 app.get("/", query("filter").isString().notEmpty() , (_request, _response) => {
-	const { filter, value } = _request;
+	const { filter, value } = _request.query;
 
 	if (filter && value) 
 		return _response.send(users.filter((user) => user[filter].includes(value)));
@@ -125,7 +125,7 @@ app.post("/", body("userName").notEmpty()
 	if(!result.isEmpty())                                    
 		_response.status(400).send({errors: result.array()}) 
 
-	const data = matchedData(request);
+	const data = matchedData(request);  // <---
 
 	if (filter && value) 
 		return _response.send(users.filter((user) => user[filter].includes(value)));

@@ -15,6 +15,13 @@ Express is a minimal and flexible Node.js web application framework that provide
 - [[body-parser]]
 - [[static]]
 - [[express-validator]]
+- [[cookie-parser]]
+- [[session]]
+- [[session-store]]
+- [[passport]]
+- [[helmet]]
+- [[cors]]
+- [[bcrypt]]
 ##### Templating Engines
 - [[ejs (Embedded JavaScript)]]
 - [[pug]]
