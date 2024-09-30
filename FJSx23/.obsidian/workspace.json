@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/express-validator.md",
+                "file": "Fullstack JavaScript 2023/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/express-validator.md",
+                "file": "Fullstack JavaScript 2023/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/express-validator.md",
+                "file": "Fullstack JavaScript 2023/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/express-validator.md"
+                "file": "Fullstack JavaScript 2023/Git.md"
               }
             }
           }
@@ -169,15 +169,18 @@
   },
   "active": "5765c1835b4e8849",
   "lastOpenFiles": [
-    "Node/Express.md",
     "Fullstack JavaScript 2023/FJSx23.md",
     "Node/Node.js.md",
+    "Node/Express.md",
+    "Fullstack JavaScript 2023/Git.md",
+    "Node/MVC.md",
+    "TypeScript/TypeScript.md",
+    "Node/express-validator.md",
     "Node/REPL.md",
     "Node/Why ES5 Syntax.md",
     "Node/Terminal Commands.md",
     "Node/ejs (Embedded JavaScript).md",
     "Node/pug.md",
-    "Fullstack JavaScript 2023/Git.md",
     "React/Screenshot_9.png",
     "React/Screenshot_8.png",
     "React/Screenshot_7.png",
@@ -196,15 +199,12 @@
     "Node/nodemon.md",
     "Node/http.md",
     "Node/fs.md",
-    "Node/express-validator.md",
     "Node/body-parser.md",
     "Node/Router.md",
     "Node/Middleware.md",
-    "Node/MVC.md",
     "Node/Express.js.md",
     "Node/Embedded JavaScript (ejs).md",
     "sendFile( ).md",
-    "Serving static files.md",
     "TypeScript",
     "React",
     "Node",
