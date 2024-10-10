@@ -6,12 +6,17 @@ Superset of JavaScript that adds static typing to JS among other functionality t
 - `tsc --init` will create a tsconfig.json in project root
 - `tsc` will compile all TypeScript files in the root folder
 - `tsc -w` will watch for changes in all TS files in root folder and auto compile them
+
+- Any-type assertion
+- Objects as parameters
+- Optional parameters
 ##### Concepts
 - [[Installing and running TypeScript]]
 - [[Type annotation]]
 - [[Unions & Intersections]]
 - [[Narrowing & Typeguards]]
 - [[Type Assertions]]
+- [[type/interface]]
 - [[enums]]
 - [[Generics]]
 - [[tsconfig.json]]

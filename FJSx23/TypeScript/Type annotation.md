@@ -63,3 +63,27 @@ const myTuple: [number, string, boolean] = [
 false
 ]
 ```
+
+##### Arrays
+
+```typescript
+let hobbies: Array<string>;
+or
+let hobbies: string[];
+
+hobbies = ["Sports", "Cooking", "Gaming"];
+```
+
+##### Functions
+
+```typescript
+function add(a: number, b: number): number {
+	return a + b;
+}
+
+function calculate(a:number, b:number calcFunc: (a:number, b:number) => number) {
+	return calcFunc(a, b);
+}
+
+calculate(2, 5, add);
+```

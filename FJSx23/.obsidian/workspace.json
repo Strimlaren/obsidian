@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5765c1835b4e8849",
+            "id": "f2ecf95e8414d9f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fullstack JavaScript 2023/Git.md",
+                "file": "Node/passport.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullstack JavaScript 2023/Git.md",
+                "file": "Node/passport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullstack JavaScript 2023/Git.md",
+                "file": "Node/passport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullstack JavaScript 2023/Git.md"
+                "file": "Node/passport.md"
               }
             }
           }
@@ -167,20 +167,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5765c1835b4e8849",
+  "active": "f2ecf95e8414d9f2",
   "lastOpenFiles": [
-    "Fullstack JavaScript 2023/FJSx23.md",
-    "Node/Node.js.md",
     "Node/Express.md",
-    "Fullstack JavaScript 2023/Git.md",
-    "Node/MVC.md",
+    "Node/Node.js.md",
+    "Fullstack JavaScript 2023/FJSx23.md",
+    "GraphQL.md",
+    "Node/passport.md",
+    "Node/session-store.md",
+    "Node/session.md",
+    "TypeScript/Type annotation.md",
     "TypeScript/TypeScript.md",
+    "Fullstack JavaScript 2023/VS Code Hotkeys.md",
+    "Useful extensions/libraries.md",
+    "Node/prisma.md",
+    "Useful extensions",
+    "Node/cookie-parser.md",
     "Node/express-validator.md",
+    "Node/static.md",
+    "Node/router().md",
     "Node/REPL.md",
     "Node/Why ES5 Syntax.md",
-    "Node/Terminal Commands.md",
-    "Node/ejs (Embedded JavaScript).md",
-    "Node/pug.md",
+    "Node/dotenv.md",
+    "Node/nodemon.md",
+    "MongoDB/MongoDB.md",
+    "Node/mongoose.md",
+    "Node/sendFile( ).md",
+    "TypeScript/Generics.md",
+    "Node/bcrypt.md",
+    "Node/cors.md",
+    "MongoDB/mongodb1.png",
+    "MongoDB",
     "React/Screenshot_9.png",
     "React/Screenshot_8.png",
     "React/Screenshot_7.png",
@@ -190,21 +207,6 @@
     "React/Screenshot_3.png",
     "React/Screenshot_2.png",
     "React/Screenshot_17.png",
-    "React/Screenshot_16.png",
-    "Node/static.md",
-    "Node/sendFile( ).md",
-    "Node/send().md",
-    "Node/router().md",
-    "Node/path.md",
-    "Node/nodemon.md",
-    "Node/http.md",
-    "Node/fs.md",
-    "Node/body-parser.md",
-    "Node/Router.md",
-    "Node/Middleware.md",
-    "Node/Express.js.md",
-    "Node/Embedded JavaScript (ejs).md",
-    "sendFile( ).md",
     "TypeScript",
     "React",
     "Node",
@@ -212,8 +214,6 @@
     "Fullstack JavaScript 2023/Courses",
     "Fullstack JavaScript 2023",
     "CSS",
-    "JavaScript",
-    "HTML",
-    "Fullstack JavaScript 2023/Courses/Webbutveckling & Webbteknik"
+    "JavaScript"
   ]
 }
